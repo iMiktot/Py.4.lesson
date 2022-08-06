@@ -9,3 +9,5 @@
 [Задание.1](https://github.com/iMiktot/Py.4.lesson/blob/main/main.py)
 
 [Задание.2](https://github.com/iMiktot/Py.4.lesson/blob/main/decorator.py)
+
+[Задание.3](https://github.com/iMiktot/Py.4.lesson/blob/main/decorator_second.py)
